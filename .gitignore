@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# 密钥：绝不入库（Actions 用 Secrets，不读 .env）
+.env
+
+# 注意：state.json 和 output/ 故意【不忽略】。
+# GitHub Actions 每天在全新容器里跑，去重状态和日报必须提交回仓库，
+# 否则每天都会把帖子当成新帖重新调 API（白花钱），日报也没有历史。

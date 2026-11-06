@@ -1,0 +1,37 @@
+[
+  {
+    "id": "jobs-1001",
+    "title": "深圳｜AI 应用开发工程师（RAG 方向）",
+    "url": "https://www.v2ex.com/t/1001",
+    "content": "负责知识库问答系统开发，要求熟悉 Python、FastAPI，了解 RAG 和向量数据库。薪资 15-25K，可远程。",
+    "created": 1762300000
+  },
+  {
+    "id": "jobs-1002",
+    "title": "广州｜Python 后端（接受应届/实习）",
+    "url": "https://www.v2ex.com/t/1002",
+    "content": "做企业内部系统，技术栈 FastAPI + MySQL + Redis。实习 200/天，转正 8-12K。",
+    "created": 1762300100
+  },
+  {
+    "id": "remote-2001",
+    "title": "远程｜大模型应用工程师，全职",
+    "url": "https://www.v2ex.com/t/2001",
+    "content": "全远程，做 AI Agent 产品。要求有 LLM 应用经验，熟悉 function calling、prompt 工程。薪资面议。",
+    "created": 1762300200
+  },
+  {
+    "id": "jobs-1003",
+    "title": "北京｜Java 高级开发 30-50K",
+    "url": "https://www.v2ex.com/t/1003",
+    "content": "金融方向，要求 5 年以上经验，熟悉 Spring Cloud、Kafka。",
+    "created": 1762300300
+  },
+  {
+    "id": "remote-2002",
+    "title": "远程兼职｜数据标注（长期）",
+    "url": "https://www.v2ex.com/t/2002",
+    "content": "按条计费，做文本分类标注，无需编程经验。",
+    "created": 1762300400
+  }
+]

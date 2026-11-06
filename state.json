@@ -1,0 +1,362 @@
+{
+  "seen_ids": [
+    "jobs-1254493",
+    "jobs-1254512",
+    "jobs-1254553",
+    "jobs-1254613",
+    "jobs-1254673",
+    "jobs-1254730",
+    "jobs-1254733",
+    "jobs-1254818",
+    "jobs-1254890",
+    "jobs-1254939",
+    "remote-1252471",
+    "remote-1252654",
+    "remote-1253022",
+    "remote-1253538",
+    "remote-1253721",
+    "remote-1253982",
+    "remote-1254263",
+    "remote-1254338",
+    "remote-1254548",
+    "remote-1254756"
+  ],
+  "jobs": [
+    {
+      "source_id": "jobs-1254939",
+      "title": "招聘汇总｜ 345 个岗位，涵盖技术、AI、产品、运营与内容创作",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "345个岗位汇总，需邮箱咨询获取JD",
+      "url": "https://www.v2ex.com/t/1254939"
+    },
+    {
+      "source_id": "jobs-1254890",
+      "title": "C++低延迟交易系统工程师 / C++交易引擎系统开发工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "C++",
+        "Linux",
+        "多线程",
+        "网络编程",
+        "NUMA",
+        "lock-free",
+        "DPDK",
+        "RDMA"
+      ],
+      "is_ai_related": false,
+      "summary": "C++低延迟交易系统与交易引擎开发",
+      "url": "https://www.v2ex.com/t/1254890"
+    },
+    {
+      "source_id": "jobs-1254818",
+      "title": "资深渗透工程师----红队主攻手/红队负责人/CTO/技术合伙人",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "渗透测试",
+        "WEB安全",
+        "漏洞挖掘",
+        "代码审计",
+        "php",
+        "python"
+      ],
+      "is_ai_related": false,
+      "summary": "红队渗透工程师，漏洞挖掘与复现",
+      "url": "https://www.v2ex.com/t/1254818"
+    },
+    {
+      "source_id": "jobs-1254733",
+      "title": "[北京] Harness & Agentic AI，找几位能挑大梁的资深工程师",
+      "company": "超数智能",
+      "city": "北京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Agentic AI",
+        "Harness",
+        "AI4Science"
+      ],
+      "is_ai_related": true,
+      "summary": "AI创业团队招资深工程师做Agentic AI",
+      "url": "https://www.v2ex.com/t/1254733"
+    },
+    {
+      "source_id": "jobs-1254730",
+      "title": "北京联想招聘： AI Infra 相关方向",
+      "company": "联想",
+      "city": "北京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "大模型训练与推理",
+        "分布式并行计算",
+        "GPU算子优化",
+        "高性能网络"
+      ],
+      "is_ai_related": true,
+      "summary": "联想超节点AI Infra高级研发",
+      "url": "https://www.v2ex.com/t/1254730"
+    },
+    {
+      "source_id": "jobs-1254673",
+      "title": "济南招聘｜ Java 2-5 年 初级开发工程师｜ 8-11K",
+      "company": null,
+      "city": "济南",
+      "remote": false,
+      "salary": "8-11K",
+      "skills": [
+        "Java",
+        "微服务",
+        "Linux"
+      ],
+      "is_ai_related": false,
+      "summary": "济南Java初级开发，8-11K",
+      "url": "https://www.v2ex.com/t/1254673"
+    },
+    {
+      "source_id": "jobs-1254613",
+      "title": "远程招聘｜ AI、技术、产品与运营高薪岗位合集",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Java",
+        "算法",
+        "Agent Ops"
+      ],
+      "is_ai_related": true,
+      "summary": "远程高薪岗位合集，含AI算法产品运营",
+      "url": "https://www.v2ex.com/t/1254613"
+    },
+    {
+      "source_id": "jobs-1254553",
+      "title": "[成都] 软件测试工程师（AI 产品方向）",
+      "company": null,
+      "city": "成都",
+      "remote": false,
+      "salary": "6K–8K",
+      "skills": [
+        "大语言模型",
+        "AIGC",
+        "Prompt",
+        "接口测试"
+      ],
+      "is_ai_related": true,
+      "summary": "成都AI产品软件测试，6-8K",
+      "url": "https://www.v2ex.com/t/1254553"
+    },
+    {
+      "source_id": "jobs-1254512",
+      "title": "远程 AI 工作流工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "25k-38k",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Go",
+        "CI/CD",
+        "Function Calling",
+        "Agent"
+      ],
+      "is_ai_related": true,
+      "summary": "远程全栈开发，负责AI工作流与Agent编排",
+      "url": "https://www.v2ex.com/t/1254512"
+    },
+    {
+      "source_id": "jobs-1254493",
+      "title": "iOS/flutter 开发工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "面议",
+      "skills": [
+        "iOS",
+        "Flutter",
+        "Swift",
+        "Objective-C",
+        "Cursor",
+        "Claude Code"
+      ],
+      "is_ai_related": false,
+      "summary": "远程iOS/Flutter开发，负责App上架与迭代",
+      "url": "https://www.v2ex.com/t/1254493"
+    },
+    {
+      "source_id": "remote-1254756",
+      "title": "AI-First Builder｜全职 / 实习",
+      "company": "Team247",
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": true,
+      "summary": "远程AI产品构建，主导从研究到商业化",
+      "url": "https://www.v2ex.com/t/1254756"
+    },
+    {
+      "source_id": "remote-1254548",
+      "title": "AI Agent 支付与金融基础设施负责人",
+      "company": "AIsa",
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "API",
+        "Agent"
+      ],
+      "is_ai_related": true,
+      "summary": "远程负责AI Agent支付与金融基础设施",
+      "url": "https://www.v2ex.com/t/1254548"
+    },
+    {
+      "source_id": "remote-1254338",
+      "title": "资深前端开发工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "$15-$25/小时",
+      "skills": [
+        "TypeScript",
+        "React",
+        "Git",
+        "Jest",
+        "@testing-library/react"
+      ],
+      "is_ai_related": false,
+      "summary": "远程资深前端，TypeScript+React，8个HC",
+      "url": "https://www.v2ex.com/t/1254338"
+    },
+    {
+      "source_id": "remote-1254263",
+      "title": "AI Agent 支付与金融基础设施负责人",
+      "company": "AIsa",
+      "city": null,
+      "remote": true,
+      "salary": "30K-50k",
+      "skills": [
+        "API",
+        "Agent"
+      ],
+      "is_ai_related": true,
+      "summary": "远程大模型平台运营，模型评测与接入",
+      "url": "https://www.v2ex.com/t/1254263"
+    },
+    {
+      "source_id": "remote-1253982",
+      "title": "Python 开发工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "15-20k/月",
+      "skills": [
+        "Python",
+        "Dify",
+        "Django",
+        "Vue",
+        "PostgreSQL",
+        "Redis",
+        "Docker"
+      ],
+      "is_ai_related": true,
+      "summary": "远程Python开发，Dify搭建AI Agent工作流",
+      "url": "https://www.v2ex.com/t/1253982"
+    },
+    {
+      "source_id": "remote-1253721",
+      "title": "React Native Mobile Engineer",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "React Native",
+        "Expo",
+        "Swift",
+        "Kotlin",
+        "TypeScript",
+        "Fabric",
+        "TurboModules",
+        "Reanimated"
+      ],
+      "is_ai_related": false,
+      "summary": "远程兼职RN移动开发，健身应用",
+      "url": "https://www.v2ex.com/t/1253721"
+    },
+    {
+      "source_id": "remote-1253538",
+      "title": "交易所远程开发/测试/安全/运维/产品/运营",
+      "company": "Bitget",
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "头部交易所长期招聘多类全职远程岗位",
+      "url": "https://www.v2ex.com/t/1253538"
+    },
+    {
+      "source_id": "remote-1253022",
+      "title": "AI 交互产品负责人",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "大模型",
+        "Agent",
+        "Prompt"
+      ],
+      "is_ai_related": true,
+      "summary": "AI角色交互产品负责人，负责产品规划与迭代",
+      "url": "https://www.v2ex.com/t/1253022"
+    },
+    {
+      "source_id": "remote-1252654",
+      "title": "信息安全工程师",
+      "company": "SmartDeer",
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Web",
+        "API",
+        "云安全"
+      ],
+      "is_ai_related": false,
+      "summary": "负责产品安全、基础安全与数据保护",
+      "url": "https://www.v2ex.com/t/1252654"
+    },
+    {
+      "source_id": "remote-1252471",
+      "title": "高级软件工程师（协议逆向与数据采集/Golang）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "40万-80万 RMB/年",
+      "skills": [
+        "Golang",
+        "逆向工程",
+        "爬虫",
+        "API",
+        "Puppeteer",
+        "Playwright"
+      ],
+      "is_ai_related": false,
+      "summary": "Golang协议逆向与大规模API数据采集",
+      "url": "https://www.v2ex.com/t/1252471"
+    }
+  ]
+}
