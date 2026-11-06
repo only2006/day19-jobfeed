@@ -10,6 +10,7 @@
     "jobs-1254818",
     "jobs-1254890",
     "jobs-1254939",
+    "jobs-1255057",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -357,6 +358,20 @@
       "is_ai_related": false,
       "summary": "Golang协议逆向与大规模API数据采集",
       "url": "https://www.v2ex.com/t/1252471"
+    },
+    {
+      "source_id": "jobs-1255057",
+      "title": "大家工作中设计表结构，都用什么软件？我用的 PowerDesign",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "PowerDesign"
+      ],
+      "is_ai_related": false,
+      "summary": "讨论表结构设计软件，提及PowerDesign",
+      "url": "https://www.v2ex.com/t/1255057"
     }
   ]
 }
