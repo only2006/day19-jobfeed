@@ -11,6 +11,7 @@
     "jobs-1254890",
     "jobs-1254939",
     "jobs-1255057",
+    "jobs-1255084",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -20,7 +21,8 @@
     "remote-1254263",
     "remote-1254338",
     "remote-1254548",
-    "remote-1254756"
+    "remote-1254756",
+    "remote-1255081"
   ],
   "jobs": [
     {
@@ -372,6 +374,48 @@
       "is_ai_related": false,
       "summary": "讨论表结构设计软件，提及PowerDesign",
       "url": "https://www.v2ex.com/t/1255057"
+    },
+    {
+      "source_id": "jobs-1255084",
+      "title": "AI Infra / Agent Infra 工程师",
+      "company": null,
+      "city": "上海",
+      "remote": false,
+      "salary": "30-50k",
+      "skills": [
+        "Kubernetes",
+        "Volcano",
+        "Kueue",
+        "Slurm",
+        "FP8",
+        "INT8",
+        "AWQ",
+        "KV cache"
+      ],
+      "is_ai_related": true,
+      "summary": "GPU算力平台建设与大模型推理性能优化",
+      "url": "https://www.v2ex.com/t/1255084"
+    },
+    {
+      "source_id": "remote-1255081",
+      "title": "AI 应用工程师",
+      "company": "AdmitPlus",
+      "city": null,
+      "remote": true,
+      "salary": "30-40k",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "RAG",
+        "Agent",
+        "React",
+        "TypeScript",
+        "MCP",
+        "embedding"
+      ],
+      "is_ai_related": true,
+      "summary": "远程AI学习产品后端与AI应用开发",
+      "url": "https://www.v2ex.com/t/1255081"
     }
   ]
 }
