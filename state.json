@@ -12,6 +12,7 @@
     "jobs-1254939",
     "jobs-1255057",
     "jobs-1255084",
+    "jobs-1255233",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -416,6 +417,18 @@
       "is_ai_related": true,
       "summary": "远程AI学习产品后端与AI应用开发",
       "url": "https://www.v2ex.com/t/1255081"
+    },
+    {
+      "source_id": "jobs-1255233",
+      "title": "资深算法/算法专家（供应链计划/商品采买决策）",
+      "company": "SHEIN",
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": true,
+      "summary": "SHEIN招供应链计划与商品采买决策算法专家",
+      "url": "https://www.v2ex.com/t/1255233"
     }
   ]
 }
