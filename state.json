@@ -13,6 +13,9 @@
     "jobs-1255057",
     "jobs-1255084",
     "jobs-1255233",
+    "jobs-1255353",
+    "jobs-1255478",
+    "jobs-1255491",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -429,6 +432,59 @@
       "is_ai_related": true,
       "summary": "SHEIN招供应链计划与商品采买决策算法专家",
       "url": "https://www.v2ex.com/t/1255233"
+    },
+    {
+      "source_id": "jobs-1255491",
+      "title": "大环境下，练好英语总没错，万一呢 //招点学生， 1v1 英语口语陪练",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Java",
+        "Node",
+        "TypeScript"
+      ],
+      "is_ai_related": false,
+      "summary": "程序员提供1v1英语口语陪练",
+      "url": "https://www.v2ex.com/t/1255491"
+    },
+    {
+      "source_id": "jobs-1255478",
+      "title": "千问事业部-助手 Agent 交互技术专家-杭州",
+      "company": "千问事业部",
+      "city": "杭州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Java",
+        "Golang",
+        "Netty",
+        "Linux",
+        "RAG",
+        "Agent",
+        "微服务",
+        "消息队列"
+      ],
+      "is_ai_related": true,
+      "summary": "多模态助手Agent后端研发与架构",
+      "url": "https://www.v2ex.com/t/1255478"
+    },
+    {
+      "source_id": "jobs-1255353",
+      "title": "杭州下沙｜找一起做 Agent 与算法的队友，实习 / 正式均可",
+      "company": null,
+      "city": "杭州",
+      "remote": false,
+      "salary": "实习300-400元/天，正式面议",
+      "skills": [
+        "Agent",
+        "pi-durable",
+        "dsh"
+      ],
+      "is_ai_related": true,
+      "summary": "招募Agent与算法方向实习/正式",
+      "url": "https://www.v2ex.com/t/1255353"
     }
   ]
 }
