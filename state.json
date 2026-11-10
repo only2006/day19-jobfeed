@@ -16,6 +16,12 @@
     "jobs-1255353",
     "jobs-1255478",
     "jobs-1255491",
+    "jobs-1255601",
+    "jobs-1255630",
+    "jobs-1255665",
+    "jobs-1255761",
+    "jobs-1255777",
+    "jobs-1255822",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -485,6 +491,104 @@
       "is_ai_related": true,
       "summary": "招募Agent与算法方向实习/正式",
       "url": "https://www.v2ex.com/t/1255353"
+    },
+    {
+      "source_id": "jobs-1255822",
+      "title": "海外广告投放优化师（工具类 App）远程办公",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Google Ads",
+        "Meta",
+        "TikTok"
+      ],
+      "is_ai_related": false,
+      "summary": "海外App广告投放优化，远程办公",
+      "url": "https://www.v2ex.com/t/1255822"
+    },
+    {
+      "source_id": "jobs-1255777",
+      "title": "远程技术招聘｜36类岗位，覆盖Go、Java、Flutter、AI、算法与安全",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Go",
+        "Java",
+        "Flutter",
+        "AI",
+        "算法",
+        "安全",
+        "PHP",
+        "Vue"
+      ],
+      "is_ai_related": true,
+      "summary": "远程技术岗多方向招聘，含AI与算法",
+      "url": "https://www.v2ex.com/t/1255777"
+    },
+    {
+      "source_id": "jobs-1255761",
+      "title": "招聘：商务经理（机构）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "商务经理，全远程，AI交易策略推广",
+      "url": "https://www.v2ex.com/t/1255761"
+    },
+    {
+      "source_id": "jobs-1255665",
+      "title": "[内推]20261109 渣打银行 广州 & 天津 | 61 个在招岗位",
+      "company": "渣打银行",
+      "city": "广州",
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "渣打银行广州天津社招内推",
+      "url": "https://www.v2ex.com/t/1255665"
+    },
+    {
+      "source_id": "jobs-1255630",
+      "title": "[香港招聘] AI Agent 開發工程師 | 港币 25K-35K/月",
+      "company": null,
+      "city": "香港",
+      "remote": false,
+      "salary": "25K-35K/月",
+      "skills": [
+        "AI Agent",
+        "LLM",
+        "提示词工程"
+      ],
+      "is_ai_related": true,
+      "summary": "招聘场景AI Agent开发，香港坐班",
+      "url": "https://www.v2ex.com/t/1255630"
+    },
+    {
+      "source_id": "jobs-1255601",
+      "title": "[香港招聘] 推薦算法工程師 | 港币 30K-50K/月",
+      "company": null,
+      "city": "香港",
+      "remote": false,
+      "salary": "30K-50K/月",
+      "skills": [
+        "推荐算法",
+        "深度学习",
+        "tensorflow",
+        "pytorch",
+        "paddlepaddle",
+        "Python",
+        "Go",
+        "C++"
+      ],
+      "is_ai_related": true,
+      "summary": "推荐算法研发，香港坐班",
+      "url": "https://www.v2ex.com/t/1255601"
     }
   ]
 }
