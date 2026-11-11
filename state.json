@@ -32,7 +32,9 @@
     "remote-1254338",
     "remote-1254548",
     "remote-1254756",
-    "remote-1255081"
+    "remote-1255081",
+    "remote-1255822",
+    "remote-1255996"
   ],
   "jobs": [
     {
@@ -589,6 +591,47 @@
       "is_ai_related": true,
       "summary": "推荐算法研发，香港坐班",
       "url": "https://www.v2ex.com/t/1255601"
+    },
+    {
+      "source_id": "remote-1255996",
+      "title": "DSP／AdX 交付运营",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": "面议",
+      "skills": [
+        "RTB",
+        "SQL",
+        "Excel",
+        "GoogleSheets",
+        "CPM",
+        "CPC",
+        "CPA",
+        "S2S"
+      ],
+      "is_ai_related": false,
+      "summary": "程序化广告DSP/AdX交付运营，需RTB与数据分析能力",
+      "url": "https://www.v2ex.com/t/1255996"
+    },
+    {
+      "source_id": "remote-1255822",
+      "title": "海外广告投放优化师（工具类 App）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Google Ads",
+        "Meta",
+        "TikTok",
+        "CPI",
+        "CPA",
+        "ROAS",
+        "LTV"
+      ],
+      "is_ai_related": false,
+      "summary": "海外App广告投放优化，远程办公",
+      "url": "https://www.v2ex.com/t/1255822"
     }
   ]
 }
