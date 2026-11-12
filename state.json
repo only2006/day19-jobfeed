@@ -22,6 +22,16 @@
     "jobs-1255761",
     "jobs-1255777",
     "jobs-1255822",
+    "jobs-1256159",
+    "jobs-1256240",
+    "jobs-1256243",
+    "jobs-1256247",
+    "jobs-1256264",
+    "jobs-1256268",
+    "jobs-1256271",
+    "jobs-1256310",
+    "jobs-1256374",
+    "jobs-1256400",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -632,6 +642,174 @@
       "is_ai_related": false,
       "summary": "海外App广告投放优化，远程办公",
       "url": "https://www.v2ex.com/t/1255822"
+    },
+    {
+      "source_id": "jobs-1256400",
+      "title": "旧时代的纯前端",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "前端吐槽外包现状，求职迷茫",
+      "url": "https://www.v2ex.com/t/1256400"
+    },
+    {
+      "source_id": "jobs-1256374",
+      "title": "广州招两个 go， 3 年。15k 起",
+      "company": null,
+      "city": "广州",
+      "remote": false,
+      "salary": "15k起",
+      "skills": [
+        "Go"
+      ],
+      "is_ai_related": false,
+      "summary": "广州招Go开发3年15k起",
+      "url": "https://www.v2ex.com/t/1256374"
+    },
+    {
+      "source_id": "jobs-1256310",
+      "title": "[求职] 24 届非科班 / 全栈实战派 / 寻找上海 AI 产品与落地岗",
+      "company": null,
+      "city": "上海",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Electron",
+        "DeepSeek API",
+        "Codex"
+      ],
+      "is_ai_related": true,
+      "summary": "24届全栈求职上海AI产品岗",
+      "url": "https://www.v2ex.com/t/1256310"
+    },
+    {
+      "source_id": "jobs-1256271",
+      "title": "招聘：高级区块链开发工程师（跨链方向），高级服务端开发工程师，链上数据开发工程师，EVM 交易路由工程师。",
+      "company": null,
+      "city": "香港",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "EVM",
+        "Solana",
+        "Go",
+        "Uniswap"
+      ],
+      "is_ai_related": false,
+      "summary": "香港招区块链及服务端开发",
+      "url": "https://www.v2ex.com/t/1256271"
+    },
+    {
+      "source_id": "jobs-1256268",
+      "title": "北京 MaaS 急招/组内直推 - 运维(k8s) /后端开发（go) ^^",
+      "company": null,
+      "city": "北京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Kubernetes",
+        "GPU",
+        "Go",
+        "Python",
+        "Rust",
+        "Linux"
+      ],
+      "is_ai_related": true,
+      "summary": "北京MaaS招运维与Go后端",
+      "url": "https://www.v2ex.com/t/1256268"
+    },
+    {
+      "source_id": "jobs-1256264",
+      "title": "AI 内容生成专员（视频剪辑）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "5-20k",
+      "skills": [
+        "剪映",
+        "Prompt"
+      ],
+      "is_ai_related": false,
+      "summary": "远程AI视频剪辑，5-20k",
+      "url": "https://www.v2ex.com/t/1256264"
+    },
+    {
+      "source_id": "jobs-1256247",
+      "title": "[全远程｜硅谷背景美资小团队] 资深全栈工程师｜ AI 广告创意 SaaS 产品｜亚太时区",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Python",
+        "Go",
+        "TypeScript"
+      ],
+      "is_ai_related": true,
+      "summary": "全远程资深全栈，AI广告SaaS",
+      "url": "https://www.v2ex.com/t/1256247"
+    },
+    {
+      "source_id": "jobs-1256243",
+      "title": "Kaon AI 招人｜ AI Platform 工程师",
+      "company": "Kaon AI",
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Go",
+        "Node.js",
+        "Agent",
+        "大模型"
+      ],
+      "is_ai_related": true,
+      "summary": "Kaon AI招AI Platform工程师",
+      "url": "https://www.v2ex.com/t/1256243"
+    },
+    {
+      "source_id": "jobs-1256240",
+      "title": "应用交付工程师",
+      "company": "武汉锂钠氪锶科技有限公司",
+      "city": "武汉",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Qt",
+        "QML",
+        "Gtk",
+        "Vue",
+        "React",
+        "golang",
+        "nodejs",
+        "python"
+      ],
+      "is_ai_related": false,
+      "summary": "武汉招应用交付工程师，需前后端经验",
+      "url": "https://www.v2ex.com/t/1256240"
+    },
+    {
+      "source_id": "jobs-1256159",
+      "title": "Java 全栈开发工程师",
+      "company": null,
+      "city": "广州",
+      "remote": false,
+      "salary": "15~30K",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "React",
+        "Vue",
+        "Next.js",
+        "Agent",
+        "大模型"
+      ],
+      "is_ai_related": true,
+      "summary": "广州招Java全栈，参与AI业务系统开发",
+      "url": "https://www.v2ex.com/t/1256159"
     }
   ]
 }
