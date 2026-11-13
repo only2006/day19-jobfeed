@@ -32,6 +32,12 @@
     "jobs-1256310",
     "jobs-1256374",
     "jobs-1256400",
+    "jobs-1256509",
+    "jobs-1256563",
+    "jobs-1256572",
+    "jobs-1256642",
+    "jobs-1256653",
+    "jobs-1256727",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -810,6 +816,113 @@
       "is_ai_related": true,
       "summary": "广州招Java全栈，参与AI业务系统开发",
       "url": "https://www.v2ex.com/t/1256159"
+    },
+    {
+      "source_id": "jobs-1256727",
+      "title": "鹰角网络上新岗位：弱电工程师、网络专家、大数据引擎研发！ T0 员工福利待遇~",
+      "company": "鹰角网络",
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "鹰角网络多岗位招聘，福利优厚",
+      "url": "https://www.v2ex.com/t/1256727"
+    },
+    {
+      "source_id": "jobs-1256653",
+      "title": "嵌入式技术负责人（ISP 方向）-苏州",
+      "company": null,
+      "city": "苏州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "ISP",
+        "MCU",
+        "Linux",
+        "C++",
+        "3A算法",
+        "Secure Boot",
+        "OTA",
+        "VLA"
+      ],
+      "is_ai_related": true,
+      "summary": "嵌入式技术负责人，主导ISP与具身智能设备架构",
+      "url": "https://www.v2ex.com/t/1256653"
+    },
+    {
+      "source_id": "jobs-1256642",
+      "title": "杭州 AI 短剧初创招人 算法-agent-全栈",
+      "company": null,
+      "city": "杭州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Python",
+        "React",
+        "Claude Code",
+        "Codex",
+        "Agent"
+      ],
+      "is_ai_related": true,
+      "summary": "AI短剧初创招算法、agent、全栈",
+      "url": "https://www.v2ex.com/t/1256642"
+    },
+    {
+      "source_id": "jobs-1256572",
+      "title": "[内推] 长沙 - 电商 Java 后端",
+      "company": null,
+      "city": "长沙",
+      "remote": false,
+      "salary": "15~20K",
+      "skills": [
+        "Java",
+        "Springboot",
+        "mybatis",
+        "SQL",
+        "Springcloud",
+        "dubbo",
+        "kafka",
+        "rocketmq"
+      ],
+      "is_ai_related": false,
+      "summary": "长沙电商Java后端，15-20K",
+      "url": "https://www.v2ex.com/t/1256572"
+    },
+    {
+      "source_id": "jobs-1256563",
+      "title": "提供就业协助，并将求职申请推荐给合适的公司",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "REST API",
+        "Solidity",
+        "ethers.js"
+      ],
+      "is_ai_related": false,
+      "summary": "远程Web3全栈开发岗位推荐",
+      "url": "https://www.v2ex.com/t/1256563"
+    },
+    {
+      "source_id": "jobs-1256509",
+      "title": "济南初级程序员几个月没招不到人，不是说行情不好，都不好找工作吗？",
+      "company": null,
+      "city": "济南",
+      "remote": false,
+      "salary": "8-11K",
+      "skills": [
+        "Java"
+      ],
+      "is_ai_related": false,
+      "summary": "济南招Java初级开发，8-11K",
+      "url": "https://www.v2ex.com/t/1256509"
     }
   ]
 }
