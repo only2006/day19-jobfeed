@@ -38,6 +38,8 @@
     "jobs-1256642",
     "jobs-1256653",
     "jobs-1256727",
+    "jobs-1256752",
+    "jobs-1256780",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -923,6 +925,42 @@
       "is_ai_related": false,
       "summary": "济南招Java初级开发，8-11K",
       "url": "https://www.v2ex.com/t/1256509"
+    },
+    {
+      "source_id": "jobs-1256780",
+      "title": "[东京] GSD 招 IT 软件工程师： Java / .NET / PHP / C++ / Python",
+      "company": "株式会社 GSD（Global Solutions Delivery）",
+      "city": "东京",
+      "remote": false,
+      "salary": "300–1,000 万日元",
+      "skills": [
+        "Java",
+        ".NET",
+        "PHP",
+        "C++",
+        "Python"
+      ],
+      "is_ai_related": false,
+      "summary": "东京GSD直招PM/PL及软件工程师，日语N2以上",
+      "url": "https://www.v2ex.com/t/1256780"
+    },
+    {
+      "source_id": "jobs-1256752",
+      "title": "[内推] 千问办公 — 宜搭招聘 AI 全栈研发工程师",
+      "company": "阿里巴巴",
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Agent",
+        "MCP"
+      ],
+      "is_ai_related": true,
+      "summary": "阿里千问办公宜搭招AI全栈研发工程师",
+      "url": "https://www.v2ex.com/t/1256752"
     }
   ]
 }
