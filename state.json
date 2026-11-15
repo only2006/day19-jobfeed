@@ -40,6 +40,7 @@
     "jobs-1256727",
     "jobs-1256752",
     "jobs-1256780",
+    "jobs-1257106",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -52,7 +53,9 @@
     "remote-1254756",
     "remote-1255081",
     "remote-1255822",
-    "remote-1255996"
+    "remote-1255996",
+    "remote-1256563",
+    "remote-1257014"
   ],
   "jobs": [
     {
@@ -961,6 +964,60 @@
       "is_ai_related": true,
       "summary": "阿里千问办公宜搭招AI全栈研发工程师",
       "url": "https://www.v2ex.com/t/1256752"
+    },
+    {
+      "source_id": "jobs-1257106",
+      "title": "最近被领导叫去涨薪了",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "分享涨薪1k经历，非招聘",
+      "url": "https://www.v2ex.com/t/1257106"
+    },
+    {
+      "source_id": "remote-1257014",
+      "title": "[远程/全职][内推]区块链相关",
+      "company": "Bitget",
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Solidity",
+        "Rust",
+        "Go",
+        "Java",
+        "BTC",
+        "ETH",
+        "Solana",
+        "TON"
+      ],
+      "is_ai_related": false,
+      "summary": "Bitget招区块链工程师，19个技术岗",
+      "url": "https://www.v2ex.com/t/1257014"
+    },
+    {
+      "source_id": "remote-1256563",
+      "title": "提供就业协助，并将求职申请推荐给合适的公司",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "REST API",
+        "Solidity",
+        "ethers.js"
+      ],
+      "is_ai_related": false,
+      "summary": "远程Web3全栈/前后端开发岗",
+      "url": "https://www.v2ex.com/t/1256563"
     }
   ]
 }
