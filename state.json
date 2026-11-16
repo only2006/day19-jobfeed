@@ -41,6 +41,8 @@
     "jobs-1256752",
     "jobs-1256780",
     "jobs-1257106",
+    "jobs-1257219",
+    "jobs-1257330",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -1018,6 +1020,34 @@
       "is_ai_related": false,
       "summary": "远程Web3全栈/前后端开发岗",
       "url": "https://www.v2ex.com/t/1256563"
+    },
+    {
+      "source_id": "jobs-1257330",
+      "title": "[内推]20261116 渣打银行 广州 & 天津 | 64 个在招岗位",
+      "company": "渣打银行",
+      "city": "广州",
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "渣打银行广州天津社招64岗位，需英文好",
+      "url": "https://www.v2ex.com/t/1257330"
+    },
+    {
+      "source_id": "jobs-1257219",
+      "title": "预测市场做市与对冲负责人 / AI Lab（C++）/ C++低延迟交易系统工程师 / BD / 区块链 / 服务端 / 链上数据 / EVM 交易路由",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "C++",
+        "Python",
+        "EVM"
+      ],
+      "is_ai_related": true,
+      "summary": "多岗位招聘，含AI Lab C++及远程做市负责人",
+      "url": "https://www.v2ex.com/t/1257219"
     }
   ]
 }
