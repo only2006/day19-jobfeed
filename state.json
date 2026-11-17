@@ -43,6 +43,13 @@
     "jobs-1257106",
     "jobs-1257219",
     "jobs-1257330",
+    "jobs-1257386",
+    "jobs-1257410",
+    "jobs-1257482",
+    "jobs-1257511",
+    "jobs-1257624",
+    "jobs-1257643",
+    "jobs-1257656",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -57,7 +64,9 @@
     "remote-1255822",
     "remote-1255996",
     "remote-1256563",
-    "remote-1257014"
+    "remote-1257014",
+    "remote-1257557",
+    "remote-1257560"
   ],
   "jobs": [
     {
@@ -1048,6 +1057,163 @@
       "is_ai_related": true,
       "summary": "多岗位招聘，含AI Lab C++及远程做市负责人",
       "url": "https://www.v2ex.com/t/1257219"
+    },
+    {
+      "source_id": "jobs-1257656",
+      "title": "高级后端开发工程师（远程）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "18-25K",
+      "skills": [
+        "PHP",
+        "Eloquent ORM",
+        "MySQL",
+        "Redis",
+        "CMS"
+      ],
+      "is_ai_related": false,
+      "summary": "远程PHP后端，负责API与内容站群开发",
+      "url": "https://www.v2ex.com/t/1257656"
+    },
+    {
+      "source_id": "jobs-1257643",
+      "title": "全栈工程师（内部平台）",
+      "company": null,
+      "city": "杭州",
+      "remote": false,
+      "salary": "20-30k/M",
+      "skills": [
+        "Python",
+        "Go",
+        "Next.js"
+      ],
+      "is_ai_related": false,
+      "summary": "杭州全栈，开发CRM与数据平台",
+      "url": "https://www.v2ex.com/t/1257643"
+    },
+    {
+      "source_id": "jobs-1257624",
+      "title": "[外包] 杭州，待业的 flutter 开发",
+      "company": null,
+      "city": "杭州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Flutter"
+      ],
+      "is_ai_related": false,
+      "summary": "杭州外包Flutter，需5年社交APP经验",
+      "url": "https://www.v2ex.com/t/1257624"
+    },
+    {
+      "source_id": "jobs-1257511",
+      "title": "[内推] 广州产品经理、后端、测试等岗位招人",
+      "company": null,
+      "city": "广州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Java"
+      ],
+      "is_ai_related": true,
+      "summary": "广州跨境电商多岗位，含AI工程师",
+      "url": "https://www.v2ex.com/t/1257511"
+    },
+    {
+      "source_id": "jobs-1257482",
+      "title": "招聘：急需：有开发想转 AI 质量评估的没？20-35K（AI 评测）",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": "20-35K",
+      "skills": [
+        "Python",
+        "NLP",
+        "RAG",
+        "Agent",
+        "LLM-as-judge"
+      ],
+      "is_ai_related": true,
+      "summary": "AI质量评估，需大模型与Agent评测经验",
+      "url": "https://www.v2ex.com/t/1257482"
+    },
+    {
+      "source_id": "jobs-1257410",
+      "title": "[内推] 南京 急招信息化工程师 / 系统开发 + AI 应用开发 / Go、 Python",
+      "company": null,
+      "city": "南京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Golang",
+        "Python",
+        "PHP",
+        "C#",
+        "Gin",
+        "FastAPI",
+        "Laravel",
+        "MySQL"
+      ],
+      "is_ai_related": true,
+      "summary": "南京信息化与AI应用开发，多语言",
+      "url": "https://www.v2ex.com/t/1257410"
+    },
+    {
+      "source_id": "jobs-1257386",
+      "title": "招聘|[东京/大连] 株式会社 GSD 招 PM/PL、软件工程师、IT 营业（27 届实习欢迎，日语 N2 起）",
+      "company": "株式会社 GSD",
+      "city": "东京",
+      "remote": false,
+      "salary": "300–1,000 万日元",
+      "skills": [
+        "Java",
+        ".NET",
+        "PHP",
+        "C++",
+        "Python"
+      ],
+      "is_ai_related": false,
+      "summary": "对日IT多岗位，日语N2起",
+      "url": "https://www.v2ex.com/t/1257386"
+    },
+    {
+      "source_id": "remote-1257560",
+      "title": "remote 算法工程师（偏重 TTS 真人语音合成方向）22K-35k 算法工程师（偏重生图生视频 & 人物一致性方向）22K-35k",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "22K-35k",
+      "skills": [
+        "TTS",
+        "ComfyUI",
+        "Python",
+        "LoRA"
+      ],
+      "is_ai_related": true,
+      "summary": "远程AIGC音视频算法，TTS与生图生视频",
+      "url": "https://www.v2ex.com/t/1257560"
+    },
+    {
+      "source_id": "remote-1257557",
+      "title": "高级安全攻防工程师（管理经验优先）× 5HC",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "40k-150k",
+      "skills": [
+        "Web",
+        "APP",
+        "小程序",
+        "API",
+        "WAF",
+        "EDR",
+        "HIDS",
+        "CVSS"
+      ],
+      "is_ai_related": false,
+      "summary": "高级安全攻防工程师，红队渗透与攻防体系建设",
+      "url": "https://www.v2ex.com/t/1257557"
     }
   ]
 }
