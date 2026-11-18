@@ -50,6 +50,7 @@
     "jobs-1257624",
     "jobs-1257643",
     "jobs-1257656",
+    "jobs-1257954",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -66,7 +67,9 @@
     "remote-1256563",
     "remote-1257014",
     "remote-1257557",
-    "remote-1257560"
+    "remote-1257560",
+    "remote-1257747",
+    "remote-1257949"
   ],
   "jobs": [
     {
@@ -1214,6 +1217,54 @@
       "is_ai_related": false,
       "summary": "高级安全攻防工程师，红队渗透与攻防体系建设",
       "url": "https://www.v2ex.com/t/1257557"
+    },
+    {
+      "source_id": "jobs-1257954",
+      "title": "千问智能创作招聘了，部门直达，流程快！",
+      "company": "千问事业部",
+      "city": "广州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Python",
+        "Java",
+        "Agent",
+        "Harness",
+        "Prompt",
+        "AIGC"
+      ],
+      "is_ai_related": true,
+      "summary": "千问智能创作招Agent开发及AI应用后端",
+      "url": "https://www.v2ex.com/t/1257954"
+    },
+    {
+      "source_id": "remote-1257949",
+      "title": "远程 远程 线上远程（不限地点）AI 短剧导/AI 短剧编剧/AI 视频制作/AI 视频内容工程师学徒/AI 短剧剧本审核专员/AI 短剧质量检测专员/短剧审核（剧本）/中高级运营/新媒体运营（越南市场男生）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "10K-20K",
+      "skills": [
+        "Prompt",
+        "AIGC"
+      ],
+      "is_ai_related": true,
+      "summary": "远程AI短剧多岗位招聘，含视频生成",
+      "url": "https://www.v2ex.com/t/1257949"
+    },
+    {
+      "source_id": "remote-1257747",
+      "title": "[远程] 软件测试工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "12K-15K",
+      "skills": [
+        "Web"
+      ],
+      "is_ai_related": false,
+      "summary": "远程Web软件测试工程师，手动测试为主",
+      "url": "https://www.v2ex.com/t/1257747"
     }
   ]
 }
