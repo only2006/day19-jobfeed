@@ -51,6 +51,11 @@
     "jobs-1257643",
     "jobs-1257656",
     "jobs-1257954",
+    "jobs-1257980",
+    "jobs-1258017",
+    "jobs-1258038",
+    "jobs-1258091",
+    "jobs-1258224",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -1265,6 +1270,79 @@
       "is_ai_related": false,
       "summary": "远程Web软件测试工程师，手动测试为主",
       "url": "https://www.v2ex.com/t/1257747"
+    },
+    {
+      "source_id": "jobs-1258224",
+      "title": "38 岁，二线城市，干了 15 年程序员，失业 2 个月，要不要转行。",
+      "company": null,
+      "city": "济南",
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "15年程序员失业求职困惑，求转行建议",
+      "url": "https://www.v2ex.com/t/1258224"
+    },
+    {
+      "source_id": "jobs-1258091",
+      "title": "招聘：Chief Business Officer（CBO） /商务负责人",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Web3"
+      ],
+      "is_ai_related": false,
+      "summary": "远程CBO，负责全球商务与机构拓展",
+      "url": "https://www.v2ex.com/t/1258091"
+    },
+    {
+      "source_id": "jobs-1258038",
+      "title": "行政 HRBP 薪资（源表）：8-14K",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": "8-14K",
+      "skills": [
+        "Excel"
+      ],
+      "is_ai_related": false,
+      "summary": "人事运营HRBP，负责招聘与数据台账",
+      "url": "https://www.v2ex.com/t/1258038"
+    },
+    {
+      "source_id": "jobs-1258017",
+      "title": "[坐班兼职招聘]AI 产品交互设计师（兼 UI）、软件测试工程师（AI 应用方向）",
+      "company": null,
+      "city": "杭州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "UI",
+        "Web",
+        "接口测试",
+        "自动化回归"
+      ],
+      "is_ai_related": true,
+      "summary": "杭州坐班兼职，招AI产品交互设计与测试",
+      "url": "https://www.v2ex.com/t/1258017"
+    },
+    {
+      "source_id": "jobs-1257980",
+      "title": "[Microsoft] AI Agent 研发实习生 - 北京",
+      "company": "Microsoft",
+      "city": "北京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "AI Agent",
+        "大模型",
+        "推理平台"
+      ],
+      "is_ai_related": true,
+      "summary": "微软AI Agent研发实习生，研究自我进化",
+      "url": "https://www.v2ex.com/t/1257980"
     }
   ]
 }
