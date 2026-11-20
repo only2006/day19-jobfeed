@@ -56,6 +56,10 @@
     "jobs-1258038",
     "jobs-1258091",
     "jobs-1258224",
+    "jobs-1258287",
+    "jobs-1258347",
+    "jobs-1258367",
+    "jobs-1258426",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -1343,6 +1347,76 @@
       "is_ai_related": true,
       "summary": "微软AI Agent研发实习生，研究自我进化",
       "url": "https://www.v2ex.com/t/1257980"
+    },
+    {
+      "source_id": "jobs-1258426",
+      "title": "UI/UX 产品设计师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "6年经验UI/UX设计师找远程全职",
+      "url": "https://www.v2ex.com/t/1258426"
+    },
+    {
+      "source_id": "jobs-1258367",
+      "title": "软件工程师",
+      "company": "徕卡显微系统",
+      "city": "苏州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "C++",
+        "Qt",
+        "Qml",
+        "Windows",
+        "Linux"
+      ],
+      "is_ai_related": false,
+      "summary": "外企内推桌面端Qt开发，需苏州长住",
+      "url": "https://www.v2ex.com/t/1258367"
+    },
+    {
+      "source_id": "jobs-1258347",
+      "title": "全栈高级工程师（Web / Flutter / Go）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "15-28K",
+      "skills": [
+        "Flutter",
+        "Go",
+        "React",
+        "TypeScript",
+        "Docker",
+        "Kubernetes",
+        "RESTful API"
+      ],
+      "is_ai_related": false,
+      "summary": "远程全栈，内容分发平台架构与开发",
+      "url": "https://www.v2ex.com/t/1258347"
+    },
+    {
+      "source_id": "jobs-1258287",
+      "title": "GPU Model Optimization 实习生",
+      "company": "Microsoft",
+      "city": "北京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "LLM",
+        "GPU",
+        "CUDA",
+        "Triton",
+        "Quantization",
+        "KV Cache",
+        "Distributed Training"
+      ],
+      "is_ai_related": true,
+      "summary": "微软大模型GPU推理优化实习生",
+      "url": "https://www.v2ex.com/t/1258287"
     }
   ]
 }
