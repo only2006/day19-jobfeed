@@ -60,6 +60,8 @@
     "jobs-1258347",
     "jobs-1258367",
     "jobs-1258426",
+    "jobs-1258630",
+    "jobs-1258720",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -78,7 +80,8 @@
     "remote-1257557",
     "remote-1257560",
     "remote-1257747",
-    "remote-1257949"
+    "remote-1257949",
+    "remote-1258604"
   ],
   "jobs": [
     {
@@ -1417,6 +1420,57 @@
       "is_ai_related": true,
       "summary": "微软大模型GPU推理优化实习生",
       "url": "https://www.v2ex.com/t/1258287"
+    },
+    {
+      "source_id": "jobs-1258720",
+      "title": "远程技术招聘｜26 类岗位，覆盖 AI 工作流、算法、后端、前端、运维与安全",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Go",
+        "Java",
+        "TTS",
+        "DevOps",
+        "SEO"
+      ],
+      "is_ai_related": true,
+      "summary": "远程多岗位招聘，含AI算法后端前端运维安全",
+      "url": "https://www.v2ex.com/t/1258720"
+    },
+    {
+      "source_id": "jobs-1258630",
+      "title": "A Strategic Partnership Opportunity Solar Energy | New Energy Vehicles (NEV) | Advanced Battery Storage",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "新能源领域寻求合作伙伴与投资人",
+      "url": "https://www.v2ex.com/t/1258630"
+    },
+    {
+      "source_id": "remote-1258604",
+      "title": "招一位 AI 产品全栈工程师，跟我们一起做有趣的产品（远程办公）",
+      "company": "Hipo Hipo",
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "AI Agent",
+        "MCP",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "Swift",
+        "SwiftUI",
+        "iOS"
+      ],
+      "is_ai_related": true,
+      "summary": "远程招AI产品全栈工程师做HipoHipo",
+      "url": "https://www.v2ex.com/t/1258604"
     }
   ]
 }
