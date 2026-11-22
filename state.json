@@ -62,6 +62,9 @@
     "jobs-1258426",
     "jobs-1258630",
     "jobs-1258720",
+    "jobs-1258747",
+    "jobs-1258763",
+    "jobs-1258789",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -1471,6 +1474,67 @@
       "is_ai_related": true,
       "summary": "远程招AI产品全栈工程师做HipoHipo",
       "url": "https://www.v2ex.com/t/1258604"
+    },
+    {
+      "source_id": "jobs-1258789",
+      "title": "SHEIN 内推：算法/Java/AI Agent/安全/测试/iOS/数据/数据库",
+      "company": "SHEIN",
+      "city": "上海",
+      "remote": false,
+      "salary": "20-90k",
+      "skills": [
+        "Java",
+        "AI Agent",
+        "NLP",
+        "Vue",
+        "iOS",
+        "StarRocks",
+        "Doris",
+        "ClickHouse"
+      ],
+      "is_ai_related": true,
+      "summary": "SHEIN上海60+技术岗，算法最高90K",
+      "url": "https://www.v2ex.com/t/1258789"
+    },
+    {
+      "source_id": "jobs-1258763",
+      "title": "前端工程师（Android+Flutter）",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "20-40k",
+      "skills": [
+        "Android",
+        "Flutter",
+        "MVVM",
+        "MVI",
+        "Jetpack Compose",
+        "ExoPlayer",
+        "IJK"
+      ],
+      "is_ai_related": false,
+      "summary": "远程Android+Flutter前端，20-40k",
+      "url": "https://www.v2ex.com/t/1258763"
+    },
+    {
+      "source_id": "jobs-1258747",
+      "title": "云平台基础研发工程师｜开发者工具/AI Agent/IAM",
+      "company": "火山引擎",
+      "city": "北京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "SDK",
+        "CLI",
+        "IaC",
+        "OpenAPI",
+        "IAM",
+        "STS",
+        "SubAgent"
+      ],
+      "is_ai_related": true,
+      "summary": "火山引擎云平台研发，含AI Agent方向",
+      "url": "https://www.v2ex.com/t/1258747"
     }
   ]
 }
