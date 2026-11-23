@@ -65,6 +65,7 @@
     "jobs-1258747",
     "jobs-1258763",
     "jobs-1258789",
+    "jobs-1258929",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -84,7 +85,8 @@
     "remote-1257560",
     "remote-1257747",
     "remote-1257949",
-    "remote-1258604"
+    "remote-1258604",
+    "remote-1258918"
   ],
   "jobs": [
     {
@@ -1535,6 +1537,42 @@
       "is_ai_related": true,
       "summary": "火山引擎云平台研发，含AI Agent方向",
       "url": "https://www.v2ex.com/t/1258747"
+    },
+    {
+      "source_id": "jobs-1258929",
+      "title": "CBO/CMO/做市与对冲负责人/c++/区块链工程师（跨链）/链上数据开发/EVM 路由工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "C++",
+        "EVM"
+      ],
+      "is_ai_related": false,
+      "summary": "多个Web3岗位，含CBO/CMO及区块链工程师",
+      "url": "https://www.v2ex.com/t/1258929"
+    },
+    {
+      "source_id": "remote-1258918",
+      "title": "武汉 可远程 全栈工程师",
+      "company": null,
+      "city": "武汉",
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Vue",
+        "React",
+        "Spring Boot",
+        "Spring Cloud",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "is_ai_related": false,
+      "summary": "电商公司内部系统全栈开发，前期现场后期远程",
+      "url": "https://www.v2ex.com/t/1258918"
     }
   ]
 }
