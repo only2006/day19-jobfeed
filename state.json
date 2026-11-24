@@ -66,6 +66,16 @@
     "jobs-1258763",
     "jobs-1258789",
     "jobs-1258929",
+    "jobs-1259153",
+    "jobs-1259298",
+    "jobs-1259381",
+    "jobs-1259389",
+    "jobs-1259403",
+    "jobs-1259413",
+    "jobs-1259419",
+    "jobs-1259422",
+    "jobs-1259432",
+    "jobs-1259445",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -86,7 +96,10 @@
     "remote-1257747",
     "remote-1257949",
     "remote-1258604",
-    "remote-1258918"
+    "remote-1258918",
+    "remote-1259160",
+    "remote-1259236",
+    "remote-1259266"
   ],
   "jobs": [
     {
@@ -1573,6 +1586,229 @@
       "is_ai_related": false,
       "summary": "电商公司内部系统全栈开发，前期现场后期远程",
       "url": "https://www.v2ex.com/t/1258918"
+    },
+    {
+      "source_id": "jobs-1259445",
+      "title": "[背调] 想问下现在的第三方背调的形式",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "询问第三方背调形式，非招聘岗位",
+      "url": "https://www.v2ex.com/t/1259445"
+    },
+    {
+      "source_id": "jobs-1259432",
+      "title": "[Microsoft] AI Infra 工程师实习 - 北京 / 上海",
+      "company": "Microsoft",
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "C/C++",
+        "Go",
+        "Python",
+        "CUDA",
+        "Linux",
+        "Kubernetes",
+        "GPU",
+        "MIG"
+      ],
+      "is_ai_related": true,
+      "summary": "微软AI Infra实习，GPU集群调度优化",
+      "url": "https://www.v2ex.com/t/1259432"
+    },
+    {
+      "source_id": "jobs-1259422",
+      "title": "[招聘] 半导体检测｜算法岗与软件岗 Base 常州",
+      "company": null,
+      "city": "常州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "C/C++",
+        "OpenCV",
+        "HALCON",
+        "CUDA",
+        "C#",
+        ".NET",
+        "Linux",
+        "Windows"
+      ],
+      "is_ai_related": false,
+      "summary": "常州半导体检测图像算法与C#软件岗",
+      "url": "https://www.v2ex.com/t/1259422"
+    },
+    {
+      "source_id": "jobs-1259419",
+      "title": "找工作，Go 或者 Rust",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Go",
+        "Rust"
+      ],
+      "is_ai_related": false,
+      "summary": "求职者自荐，找Go/Rust工作",
+      "url": "https://www.v2ex.com/t/1259419"
+    },
+    {
+      "source_id": "jobs-1259413",
+      "title": "寻找远程业务搭子，独立全栈开发干点自己的事",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "找远程独立全栈开发合作项目",
+      "url": "https://www.v2ex.com/t/1259413"
+    },
+    {
+      "source_id": "jobs-1259403",
+      "title": "算法工程师（偏重 TTS 真人语音合成方向）\r\n算法工程师（偏重生图生视频 & 人物一致性方向）",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": "22K-35k",
+      "skills": [
+        "ComfyUI",
+        "LoRA",
+        "ControlNet",
+        "Python",
+        "TTS",
+        "AIGC",
+        "GPU"
+      ],
+      "is_ai_related": true,
+      "summary": "AIGC图像视频生成算法工程师",
+      "url": "https://www.v2ex.com/t/1259403"
+    },
+    {
+      "source_id": "jobs-1259389",
+      "title": "救救孩子吧！求职 Android，flutter，web 前端开发",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Android",
+        "Flutter",
+        "Web"
+      ],
+      "is_ai_related": false,
+      "summary": "求职Android/Flutter/Web前端",
+      "url": "https://www.v2ex.com/t/1259389"
+    },
+    {
+      "source_id": "jobs-1259381",
+      "title": "苏州/机器人人公司/嵌入式 Linux 软件工程师",
+      "company": null,
+      "city": "苏州",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Linux",
+        "EtherCAT",
+        "CIA402",
+        "SOEM",
+        "IgH",
+        "瑞芯微",
+        "PDO",
+        "SDO"
+      ],
+      "is_ai_related": false,
+      "summary": "苏州机器人嵌入式Linux驱动与EtherCAT开发",
+      "url": "https://www.v2ex.com/t/1259381"
+    },
+    {
+      "source_id": "jobs-1259298",
+      "title": "全栈工程师",
+      "company": "AIPower, Inc.",
+      "city": null,
+      "remote": true,
+      "salary": "30K–45K",
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "NestJS",
+        "Express",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "is_ai_related": true,
+      "summary": "虚拟卡/网银全栈开发，参与AI Agent支付",
+      "url": "https://www.v2ex.com/t/1259298"
+    },
+    {
+      "source_id": "jobs-1259153",
+      "title": "渣打银行广州天津66个在招岗位",
+      "company": "渣打银行",
+      "city": "广州",
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "渣打银行广州天津社招，多岗位内推",
+      "url": "https://www.v2ex.com/t/1259153"
+    },
+    {
+      "source_id": "remote-1259266",
+      "title": "设计工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "15-25K",
+      "skills": [
+        "Figma"
+      ],
+      "is_ai_related": true,
+      "summary": "AI伴侣产品设计工程师，设计+前端",
+      "url": "https://www.v2ex.com/t/1259266"
+    },
+    {
+      "source_id": "remote-1259236",
+      "title": "区块链行情开发工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "Golang",
+        "Kafka",
+        "Flink",
+        "ClickHouse",
+        "Redis"
+      ],
+      "is_ai_related": false,
+      "summary": "链上数据解析与行情实时计算开发",
+      "url": "https://www.v2ex.com/t/1259236"
+    },
+    {
+      "source_id": "remote-1259160",
+      "title": "前端工程师/全栈开发工程师",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "25K-30K",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "PHP",
+        "Go"
+      ],
+      "is_ai_related": false,
+      "summary": "在线视频社交App前端/全栈高级开发",
+      "url": "https://www.v2ex.com/t/1259160"
     }
   ]
 }
