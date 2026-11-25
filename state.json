@@ -76,6 +76,10 @@
     "jobs-1259422",
     "jobs-1259432",
     "jobs-1259445",
+    "jobs-1259525",
+    "jobs-1259535",
+    "jobs-1259596",
+    "jobs-1259614",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -1809,6 +1813,78 @@
       "is_ai_related": false,
       "summary": "在线视频社交App前端/全栈高级开发",
       "url": "https://www.v2ex.com/t/1259160"
+    },
+    {
+      "source_id": "jobs-1259614",
+      "title": "[成都] [硬件] 军工通信/低空经济方向-高级硬件工程师",
+      "company": null,
+      "city": "成都",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Cadence",
+        "Xilinx Z7",
+        "V7",
+        "VU",
+        "复旦微 FPGA",
+        "AD9361",
+        "CX9261",
+        "SRIO"
+      ],
+      "is_ai_related": false,
+      "summary": "成都军工通信硬件工程师，5年以上，精通FPGA与高速接口",
+      "url": "https://www.v2ex.com/t/1259614"
+    },
+    {
+      "source_id": "jobs-1259596",
+      "title": "都说前端完了，但是招个人也太难了",
+      "company": null,
+      "city": "西安",
+      "remote": false,
+      "salary": "13k-23k",
+      "skills": [
+        "Vue"
+      ],
+      "is_ai_related": false,
+      "summary": "西安前端Vue，3年以上，13-23k，非996",
+      "url": "https://www.v2ex.com/t/1259596"
+    },
+    {
+      "source_id": "jobs-1259535",
+      "title": "招 Agent 研发岗。",
+      "company": null,
+      "city": "深圳",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Agent",
+        "LLM",
+        "工具调用",
+        "流程编排"
+      ],
+      "is_ai_related": true,
+      "summary": "Agent研发，需落地经验，Base深圳/北京",
+      "url": "https://www.v2ex.com/t/1259535"
+    },
+    {
+      "source_id": "jobs-1259525",
+      "title": "[深圳][MoeGo] 技术 / 产品 / 设计 / 财务社招内推 15 薪",
+      "company": "MoeGo",
+      "city": "深圳",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Agent",
+        "LLM",
+        "Go",
+        "Java",
+        "Python",
+        "Node.js",
+        "Kubernetes"
+      ],
+      "is_ai_related": true,
+      "summary": "MoeGo深圳多岗位，含AI Agent开发，15薪",
+      "url": "https://www.v2ex.com/t/1259525"
     }
   ]
 }
