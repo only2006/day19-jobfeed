@@ -80,6 +80,9 @@
     "jobs-1259535",
     "jobs-1259596",
     "jobs-1259614",
+    "jobs-1259704",
+    "jobs-1259710",
+    "jobs-1259822",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -103,7 +106,9 @@
     "remote-1258918",
     "remote-1259160",
     "remote-1259236",
-    "remote-1259266"
+    "remote-1259266",
+    "remote-1259298",
+    "remote-1259737"
   ],
   "jobs": [
     {
@@ -1885,6 +1890,90 @@
       "is_ai_related": true,
       "summary": "MoeGo深圳多岗位，含AI Agent开发，15薪",
       "url": "https://www.v2ex.com/t/1259525"
+    },
+    {
+      "source_id": "jobs-1259822",
+      "title": "AI 全栈研发实习生",
+      "company": "VAST（Tripo）",
+      "city": "北京",
+      "remote": false,
+      "salary": "500 元/天",
+      "skills": [
+        "Vue",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Go",
+        "Python",
+        "Claude Code",
+        "Cursor"
+      ],
+      "is_ai_related": true,
+      "summary": "北京五道口 AI 全栈实习生，做运营工具与 Agent",
+      "url": "https://www.v2ex.com/t/1259822"
+    },
+    {
+      "source_id": "jobs-1259710",
+      "title": "数据安全客户成功经理-CSM",
+      "company": null,
+      "city": "上海",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "零信任",
+        "PoC"
+      ],
+      "is_ai_related": false,
+      "summary": "上海/深圳数据安全 CSM，负责客户上线与交付",
+      "url": "https://www.v2ex.com/t/1259710"
+    },
+    {
+      "source_id": "jobs-1259704",
+      "title": "资深合规/产品/运营/商务负责人",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "KYC",
+        "AML"
+      ],
+      "is_ai_related": false,
+      "summary": "预测市场核心管理岗，全职远程，多方向负责人",
+      "url": "https://www.v2ex.com/t/1259704"
+    },
+    {
+      "source_id": "remote-1259737",
+      "title": "远程海外数据录入全职/兼职",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "4k-12k/月",
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "远程海外数据录入，全职兼职均可，按量结算",
+      "url": "https://www.v2ex.com/t/1259737"
+    },
+    {
+      "source_id": "remote-1259298",
+      "title": "全栈工程师",
+      "company": "AIPower, Inc.",
+      "city": null,
+      "remote": true,
+      "salary": "30K–45K",
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "NestJS",
+        "Express",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "is_ai_related": true,
+      "summary": "远程全栈，做虚拟卡与 AI Agent 支付产品",
+      "url": "https://www.v2ex.com/t/1259298"
     }
   ]
 }
