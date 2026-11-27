@@ -83,6 +83,11 @@
     "jobs-1259704",
     "jobs-1259710",
     "jobs-1259822",
+    "jobs-1260004",
+    "jobs-1260075",
+    "jobs-1260112",
+    "jobs-1260125",
+    "jobs-1260282",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -108,7 +113,9 @@
     "remote-1259236",
     "remote-1259266",
     "remote-1259298",
-    "remote-1259737"
+    "remote-1259737",
+    "remote-1260107",
+    "remote-1260215"
   ],
   "jobs": [
     {
@@ -1974,6 +1981,116 @@
       "is_ai_related": true,
       "summary": "远程全栈，做虚拟卡与 AI Agent 支付产品",
       "url": "https://www.v2ex.com/t/1259298"
+    },
+    {
+      "source_id": "jobs-1260282",
+      "title": "量子计算初创公司招聘开发运维工程师",
+      "company": "量子计算初创公司",
+      "city": "上海",
+      "remote": false,
+      "salary": "35-45W/年",
+      "skills": [
+        "Linux",
+        "Agent",
+        "后端开发",
+        "前端开发",
+        "运维"
+      ],
+      "is_ai_related": false,
+      "summary": "量子计算公司招运维+全栈开发工程师",
+      "url": "https://www.v2ex.com/t/1260282"
+    },
+    {
+      "source_id": "jobs-1260125",
+      "title": "微软 CoreAI 团队内推",
+      "company": "微软",
+      "city": "上海",
+      "remote": false,
+      "salary": null,
+      "skills": [],
+      "is_ai_related": true,
+      "summary": "微软CoreAI团队上海招人，需3年经验",
+      "url": "https://www.v2ex.com/t/1260125"
+    },
+    {
+      "source_id": "jobs-1260112",
+      "title": "VAST (Tripo AI) 招 AI 全栈研发实习生",
+      "company": "VAST",
+      "city": "北京",
+      "remote": false,
+      "salary": "500元/天",
+      "skills": [
+        "Vue",
+        "React",
+        "TypeScript",
+        "Node",
+        "AI",
+        "Agent"
+      ],
+      "is_ai_related": true,
+      "summary": "Tripo AI招全栈研发实习生，做AI平台与Agent",
+      "url": "https://www.v2ex.com/t/1260112"
+    },
+    {
+      "source_id": "jobs-1260075",
+      "title": "地瓜机器人热招安全渗透/芯片架构/AI编译器/SoC系统软件等24岗",
+      "company": "地瓜机器人",
+      "city": "北京",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "AI编译器",
+        "SoC",
+        "EDA",
+        "Display驱动",
+        "Boot",
+        "DDR"
+      ],
+      "is_ai_related": true,
+      "summary": "地瓜机器人24个岗位内推，含AI编译器",
+      "url": "https://www.v2ex.com/t/1260075"
+    },
+    {
+      "source_id": "jobs-1260004",
+      "title": "西安、宝鸡找一个FDE，要求Java技术栈",
+      "company": null,
+      "city": "西安",
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Java"
+      ],
+      "is_ai_related": false,
+      "summary": "西安宝鸡招FDE，Java技术栈，需数据录入维护",
+      "url": "https://www.v2ex.com/t/1260004"
+    },
+    {
+      "source_id": "remote-1260215",
+      "title": "求流畅远程办公方案",
+      "company": null,
+      "city": "成都",
+      "remote": true,
+      "salary": null,
+      "skills": [
+        "tailscale",
+        "rdp",
+        "frp"
+      ],
+      "is_ai_related": false,
+      "summary": "求助远程办公流畅方案，非招聘",
+      "url": "https://www.v2ex.com/t/1260215"
+    },
+    {
+      "source_id": "remote-1260107",
+      "title": "海外数据录入全职/兼职",
+      "company": null,
+      "city": null,
+      "remote": true,
+      "salary": "4k-12k/月",
+      "skills": [],
+      "is_ai_related": false,
+      "summary": "海外数据录入全职兼职，线上远程",
+      "url": "https://www.v2ex.com/t/1260107"
     }
   ]
 }
