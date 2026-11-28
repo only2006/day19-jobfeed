@@ -88,6 +88,8 @@
     "jobs-1260112",
     "jobs-1260125",
     "jobs-1260282",
+    "jobs-1260368",
+    "jobs-1260463",
     "remote-1252471",
     "remote-1252654",
     "remote-1253022",
@@ -2091,6 +2093,40 @@
       "is_ai_related": false,
       "summary": "海外数据录入全职兼职，线上远程",
       "url": "https://www.v2ex.com/t/1260107"
+    },
+    {
+      "source_id": "jobs-1260463",
+      "title": "新媒体运营",
+      "company": null,
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "Twitter",
+        "Instagram",
+        "Telegram"
+      ],
+      "is_ai_related": false,
+      "summary": "海外社媒内容运营与引流",
+      "url": "https://www.v2ex.com/t/1260463"
+    },
+    {
+      "source_id": "jobs-1260368",
+      "title": "AI Networking 软件工程师",
+      "company": "NVIDIA",
+      "city": null,
+      "remote": false,
+      "salary": null,
+      "skills": [
+        "C/C++",
+        "Linux",
+        "RDMA",
+        "拥塞控制",
+        "集合通信库"
+      ],
+      "is_ai_related": true,
+      "summary": "大模型训练推理通信加速研发",
+      "url": "https://www.v2ex.com/t/1260368"
     }
   ]
 }
